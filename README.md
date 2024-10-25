@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 23 years old student at 42Lyon since 2019, searching for my next professionnal experience in any fields to broaden my experiences and validate my [RNCP 7 "Expert in Computer Architecture"](https://www.francecompetences.fr/recherche/rncp/36137/) (equivalent Master II degree) with a specialization in "Operating systems and network".
+I'm a 23 years old student at 42Lyon since 2019, searching for my next professionnal experience in any fields to broaden my qualifications and validate my [RNCP 7 "Expert in Computer Architecture"](https://www.francecompetences.fr/recherche/rncp/36137/) (equivalent Master II degree) with a specialization in "Operating systems and network".
 
 <!--
 **benprz/benprz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
